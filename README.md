@@ -1,1 +1,2 @@
-# 2.-MySQL-for-Data-Science
+# 2. MySQL - Data-Science.
+MySQL is a popular open-source relational database management system that is used to store and manipulate data in a structured way. It is a popular choice for many web applications and websites as it is capable of handling large volumes of data quickly and efficiently. With the help of Python, users can easily interact with MySQL databases and perform common tasks such as querying data, creating new tables, and managing databases. Python also offers access to the powerful features of MySQL such as stored procedures, triggers, and views to help developers create robust applications. Python's simple and easy-to-learn syntax makes it a great choice for accessing and managing MySQL databases.
